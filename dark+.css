@@ -466,7 +466,7 @@
   
 
 .offline-text-selector { 
-    display: none;
+    display: none !important;
 }
 
   /*.membersWrap_c8ffbb {
