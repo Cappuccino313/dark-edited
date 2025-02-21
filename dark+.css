@@ -464,13 +464,6 @@
       height: 40px;
   }
   
-  .membersWrap_c8ffbb .membersGroup_c8ffbb {
-    display: none;
-}
-
-.membersWrap_c8ffbb:hover .membersGroup_c8ffbb {
-    display: block;
-}
 
 .offline-text-selector { 
     display: none !important;
